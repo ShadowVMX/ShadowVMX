@@ -2,6 +2,13 @@
 
 ![original](https://user-images.githubusercontent.com/92258683/173164962-d707fd10-cea0-4ceb-a77d-c5d3e8e0e106.gif)
 
+## ShadowVMX:
 
+- Linux Scripting Advance.
+- C++ Coding.
+- Pentesting | Read Team.
+- Cybersecurity.
+- Tools.
+- Networking.
 
 
