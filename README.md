@@ -12,5 +12,3 @@
 - Networking.
 
 
-![Myself](https://user-images.githubusercontent.com/92258683/173165142-bad2a381-1c6c-46bc-9661-64959739b7a9.jpg)
-
