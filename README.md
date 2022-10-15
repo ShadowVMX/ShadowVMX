@@ -6,7 +6,7 @@
 
 - Linux Scripting Advance.
 - C++ Coding.
-- Pentesting | Read Team.
+- Pentesting | Red Team.
 - Cybersecurity.
 - Tools.
 - Networking.
