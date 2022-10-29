@@ -10,5 +10,6 @@
 - Cybersecurity.
 - Tools.
 - Networking.
-
+- Cloud.
+- Virtualization.
 
